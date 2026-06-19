@@ -1,0 +1,4 @@
+/* ── Reset ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', system-ui, sans-serif; background: #060d1e; min-height: 100vh; }
+#root { min-height: 100vh; }

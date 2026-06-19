@@ -1,0 +1,12 @@
+[submodule "agents/coral-acidev"]
+	path = agents/coral-acidev
+	url = https://github.com/Coral-Protocol/Coral-AciDevMCP-Agent.git
+[submodule "coral-server"]
+	path = coral-server
+	url = https://github.com/Coral-Protocol/coral-server.git
+[submodule "coral-studio"]
+	path = coral-studio
+	url = https://github.com/Coral-Protocol/coral-studio.git
+[submodule "agents/buffalo"]
+	path = agents/buffalo
+	url = https://github.com/KenjiPcx/buffalo-agent.git
