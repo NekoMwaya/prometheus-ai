@@ -10,7 +10,7 @@
 
 Vibe coding has been present and growing year by year, empowering more creators to build software faster than ever. However, beginners who want to push their websites into production often do not fully understand the risks of being exposed to DDoS attacks, cybersecurity vulnerabilities, or catastrophic UX failures. That's why Prometheus AI was built—to thoroughly "vibe check" websites before they are pushed into production. By running autonomous, AI-powered browser agents against your website, Prometheus AI acts as your prelaunch safety net. It scrapes your site to find missing links, missing meta descriptions, bad processing methods, and missing or broken visuals. Just provide your website URL and an email address—our agents will run in the background and deliver an actionable report to your inbox so you can build and ship with confidence.
 
-![Prometheus AI Dashboard Preview](https://github.com/KenjiPcx/Buffalo-AI/raw/main/assets/preview.png)
+![Prometheus AI Dashboard Preview](./assets/preview.png)
 
 ## Why Prometheus AI?
 
